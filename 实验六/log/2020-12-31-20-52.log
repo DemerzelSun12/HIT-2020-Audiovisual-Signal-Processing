@@ -1,0 +1,2213 @@
+test data 10_1
+test model 1 for 10_1
+cost matrix 8794.706317552163
+test model 10 for 10_1
+cost matrix 5518.42194301012
+test model 2 for 10_1
+cost matrix 10231.735429305374
+test model 3 for 10_1
+cost matrix 8161.684118740768
+test model 4 for 10_1
+cost matrix 7857.268768944229
+test model 5 for 10_1
+---------------------
+cost matrix 6963.562021828248
+test model 6 for 10_1
+cost matrix 9874.467400884576
+test model 7 for 10_1
+cost matrix 8279.228549979227
+test model 8 for 10_1
+cost matrix 9478.494511783008
+test model 9 for 10_1
+cost matrix 8480.159319079341
+data10_1 belongs to type 10.
+test data 10_10
+test model 1 for 10_10
+cost matrix 9168.97599350996
+test model 10 for 10_10
+cost matrix 6021.529544118689
+test model 2 for 10_10
+cost matrix 10703.290020006361
+test model 3 for 10_10
+cost matrix 7888.10489820409
+test model 4 for 10_10
+cost matrix 7994.820619962067
+test model 5 for 10_10
+cost matrix 10844.59163245535
+test model 6 for 10_10
+cost matrix 9855.122137884555
+test model 7 for 10_10
+cost matrix 8676.492614321516
+test model 8 for 10_10
+cost matrix 9519.391955569923
+test model 9 for 10_10
+cost matrix 8329.454483807644
+data10_10 belongs to type 10.
+test data 10_2
+test model 1 for 10_2
+cost matrix 8838.506089188064
+test model 10 for 10_2
+cost matrix 5359.080578366869
+test model 2 for 10_2
+cost matrix 10332.306116770902
+test model 3 for 10_2
+cost matrix 7576.066851231481
+test model 4 for 10_2
+cost matrix 7477.447142735529
+test model 5 for 10_2
+cost matrix 10303.828578624756
+test model 6 for 10_2
+cost matrix 9505.725100563826
+test model 7 for 10_2
+cost matrix 7778.2178313108225
+test model 8 for 10_2
+cost matrix 9093.692351584246
+test model 9 for 10_2
+cost matrix 7961.240394402425
+data10_2 belongs to type 10.
+test data 10_3
+test model 1 for 10_3
+cost matrix 8642.73407813101
+test model 10 for 10_3
+cost matrix 5569.861714780005
+test model 2 for 10_3
+cost matrix 10256.013284796465
+test model 3 for 10_3
+cost matrix 7596.260351799816
+test model 4 for 10_3
+cost matrix 7409.834231746527
+test model 5 for 10_3
+cost matrix 10377.92940323386
+test model 6 for 10_3
+cost matrix 9629.351803665371
+test model 7 for 10_3
+cost matrix 8211.285777746161
+test model 8 for 10_3
+cost matrix 9250.650439238232
+test model 9 for 10_3
+cost matrix 7864.403745530889
+data10_3 belongs to type 10.
+test data 10_4
+test model 1 for 10_4
+cost matrix 8920.358111860027
+test model 10 for 10_4
+cost matrix 5870.079765881516
+test model 2 for 10_4
+cost matrix 10336.484103137265
+test model 3 for 10_4
+cost matrix 7836.117029325996
+test model 4 for 10_4
+cost matrix 7694.445561758007
+test model 5 for 10_4
+cost matrix 10413.437863348734
+test model 6 for 10_4
+---------------------
+cost matrix 6521.628500985281
+test model 7 for 10_4
+cost matrix 8340.223603470276
+test model 8 for 10_4
+cost matrix 9415.021609532716
+test model 9 for 10_4
+cost matrix 8184.552680905921
+data10_4 belongs to type 10.
+test data 10_5
+test model 1 for 10_5
+cost matrix 8838.652299930629
+test model 10 for 10_5
+cost matrix 5729.768791636941
+test model 2 for 10_5
+cost matrix 10116.353904775577
+test model 3 for 10_5
+cost matrix 7732.539788621902
+test model 4 for 10_5
+cost matrix 7602.2608586327715
+test model 5 for 10_5
+cost matrix 10247.82379367637
+test model 6 for 10_5
+cost matrix 9669.229375586583
+test model 7 for 10_5
+cost matrix 8088.122748893753
+test model 8 for 10_5
+cost matrix 9598.85378453483
+test model 9 for 10_5
+cost matrix 8147.828035301163
+data10_5 belongs to type 10.
+test data 10_6
+test model 1 for 10_6
+cost matrix 9167.910387308973
+test model 10 for 10_6
+cost matrix 6833.735866177923
+test model 2 for 10_6
+cost matrix 10549.77134343726
+test model 3 for 10_6
+cost matrix 8171.390149948906
+test model 4 for 10_6
+cost matrix 8221.599575138927
+test model 5 for 10_6
+cost matrix 11099.283051203633
+test model 6 for 10_6
+---------------------
+cost matrix 7194.880385975309
+test model 7 for 10_6
+cost matrix 8884.038024990348
+test model 8 for 10_6
+cost matrix 9893.294963469545
+test model 9 for 10_6
+cost matrix 9087.65531645981
+data10_6 belongs to type 10.
+test data 10_7
+test model 1 for 10_7
+cost matrix 9010.477753406904
+test model 10 for 10_7
+cost matrix 5475.8261805474385
+test model 2 for 10_7
+cost matrix 10226.39058015872
+test model 3 for 10_7
+cost matrix 7552.986133110741
+test model 4 for 10_7
+cost matrix 7775.9679593952205
+test model 5 for 10_7
+cost matrix 10572.819062344142
+test model 6 for 10_7
+cost matrix 9681.886736579778
+test model 7 for 10_7
+cost matrix 8011.240248348442
+test model 8 for 10_7
+cost matrix 9359.40782104498
+test model 9 for 10_7
+cost matrix 8387.96033981785
+data10_7 belongs to type 10.
+test data 10_8
+test model 1 for 10_8
+cost matrix 9112.540373177975
+test model 10 for 10_8
+cost matrix 5914.873089349656
+test model 2 for 10_8
+cost matrix 10314.396366433504
+test model 3 for 10_8
+cost matrix 7851.0819429152325
+test model 4 for 10_8
+cost matrix 8008.584860548997
+test model 5 for 10_8
+cost matrix 10589.182732210356
+test model 6 for 10_8
+cost matrix 9814.95138767481
+test model 7 for 10_8
+cost matrix 8388.51586798013
+test model 8 for 10_8
+cost matrix 9379.330403742246
+test model 9 for 10_8
+cost matrix 8311.669571601804
+data10_8 belongs to type 10.
+test data 10_9
+test model 1 for 10_9
+cost matrix 10071.029810698745
+test model 10 for 10_9
+cost matrix 7407.25369057247
+test model 2 for 10_9
+cost matrix 10750.733532411885
+test model 3 for 10_9
+cost matrix 8907.461967238049
+test model 4 for 10_9
+cost matrix 9270.955165764022
+test model 5 for 10_9
+cost matrix 11987.491627477199
+test model 6 for 10_9
+cost matrix 10400.967188807881
+test model 7 for 10_9
+cost matrix 9791.927694769538
+test model 8 for 10_9
+cost matrix 10421.497197228793
+test model 9 for 10_9
+cost matrix 9893.27569602187
+data10_9 belongs to type 10.
+test data 1_1
+test model 1 for 1_1
+---------------------
+cost matrix 6592.970527266864
+test model 10 for 1_1
+cost matrix 9091.458909575242
+test model 2 for 1_1
+cost matrix 10269.087103553675
+test model 3 for 1_1
+cost matrix 7884.217259019809
+test model 4 for 1_1
+cost matrix 7862.360533711503
+test model 5 for 1_1
+cost matrix 10519.792087925602
+test model 6 for 1_1
+cost matrix 9919.020867710995
+test model 7 for 1_1
+cost matrix 8363.376274545153
+test model 8 for 1_1
+cost matrix 9934.553092155747
+test model 9 for 1_1
+cost matrix 9245.455950539965
+data1_1 belongs to type 1.
+test data 1_10
+test model 1 for 1_10
+cost matrix 6307.732413543704
+test model 10 for 1_10
+cost matrix 9036.090729039093
+test model 2 for 1_10
+cost matrix 10292.349218776364
+test model 3 for 1_10
+cost matrix 7827.378252367113
+test model 4 for 1_10
+cost matrix 8061.055453529089
+test model 5 for 1_10
+cost matrix 10306.537203238015
+test model 6 for 1_10
+cost matrix 10076.57796367424
+test model 7 for 1_10
+cost matrix 8710.89946599118
+test model 8 for 1_10
+cost matrix 10060.847774032809
+test model 9 for 1_10
+cost matrix 9614.085090181867
+data1_10 belongs to type 1.
+test data 1_2
+test model 1 for 1_2
+cost matrix 5616.952390725425
+test model 10 for 1_2
+cost matrix 8551.14971016616
+test model 2 for 1_2
+cost matrix 9548.355208774698
+test model 3 for 1_2
+cost matrix 7566.713092741069
+test model 4 for 1_2
+cost matrix 7679.718272390452
+test model 5 for 1_2
+cost matrix 10203.508128664314
+test model 6 for 1_2
+cost matrix 9691.55749236226
+test model 7 for 1_2
+cost matrix 8083.295022039548
+test model 8 for 1_2
+cost matrix 9597.152476354424
+test model 9 for 1_2
+cost matrix 9143.45504840964
+data1_2 belongs to type 1.
+test data 1_3
+test model 1 for 1_3
+cost matrix 8017.218775677945
+test model 10 for 1_3
+cost matrix 10413.904143788568
+test model 2 for 1_3
+cost matrix 11553.395591410985
+test model 3 for 1_3
+cost matrix 9100.799187788545
+test model 4 for 1_3
+cost matrix 9219.325101074146
+test model 5 for 1_3
+cost matrix 11950.621223983891
+test model 6 for 1_3
+cost matrix 11474.24105417362
+test model 7 for 1_3
+cost matrix 9849.220169205533
+test model 8 for 1_3
+cost matrix 11176.092911696782
+test model 9 for 1_3
+cost matrix 10878.130930603724
+data1_3 belongs to type 1.
+test data 1_4
+test model 1 for 1_4
+cost matrix 5604.346694662719
+test model 10 for 1_4
+cost matrix 8494.582544068526
+test model 2 for 1_4
+cost matrix 9488.86176226832
+test model 3 for 1_4
+cost matrix 7215.654082116553
+test model 4 for 1_4
+cost matrix 7622.168951989547
+test model 5 for 1_4
+cost matrix 10228.66681798585
+test model 6 for 1_4
+cost matrix 9427.332030750727
+test model 7 for 1_4
+cost matrix 7821.547817112259
+test model 8 for 1_4
+cost matrix 9347.693603819505
+test model 9 for 1_4
+cost matrix 8817.17883164877
+data1_4 belongs to type 1.
+test data 1_5
+test model 1 for 1_5
+cost matrix 5717.034801486812
+test model 10 for 1_5
+cost matrix 9166.5707501492
+test model 2 for 1_5
+cost matrix 10033.212727037311
+test model 3 for 1_5
+cost matrix 8295.664389650412
+test model 4 for 1_5
+cost matrix 8157.181389157424
+test model 5 for 1_5
+cost matrix 10643.670570948634
+test model 6 for 1_5
+cost matrix 9982.058986745871
+test model 7 for 1_5
+cost matrix 8729.450230761751
+test model 8 for 1_5
+cost matrix 10151.29011597522
+test model 9 for 1_5
+cost matrix 9341.847504497722
+data1_5 belongs to type 1.
+test data 1_6
+test model 1 for 1_6
+cost matrix 5559.36088170878
+test model 10 for 1_6
+cost matrix 9180.737899842758
+test model 2 for 1_6
+---------------------
+cost matrix 6840.4681762567125
+test model 3 for 1_6
+cost matrix 8044.937419309057
+test model 4 for 1_6
+cost matrix 8103.750834939382
+test model 5 for 1_6
+cost matrix 10727.725499569502
+test model 6 for 1_6
+cost matrix 10029.976000651628
+test model 7 for 1_6
+cost matrix 8418.316838339746
+test model 8 for 1_6
+cost matrix 10075.889620276326
+test model 9 for 1_6
+cost matrix 9497.235374304972
+data1_6 belongs to type 1.
+test data 1_7
+test model 1 for 1_7
+cost matrix 5889.7374024658775
+test model 10 for 1_7
+cost matrix 8998.486808761554
+test model 2 for 1_7
+cost matrix 10150.708249102032
+test model 3 for 1_7
+cost matrix 7817.585556990269
+test model 4 for 1_7
+cost matrix 8042.0608805877
+test model 5 for 1_7
+cost matrix 10348.038997027088
+test model 6 for 1_7
+cost matrix 9955.98260375472
+test model 7 for 1_7
+cost matrix 8226.41132702007
+test model 8 for 1_7
+cost matrix 10000.998837604417
+test model 9 for 1_7
+cost matrix 9236.71913517081
+data1_7 belongs to type 1.
+test data 1_8
+test model 1 for 1_8
+cost matrix 6153.701190224986
+test model 10 for 1_8
+cost matrix 9293.626394938441
+test model 2 for 1_8
+cost matrix 10194.304163362956
+test model 3 for 1_8
+cost matrix 8326.559243448353
+test model 4 for 1_8
+cost matrix 8569.41992907252
+test model 5 for 1_8
+cost matrix 10911.356909713362
+test model 6 for 1_8
+cost matrix 10255.304854044436
+test model 7 for 1_8
+cost matrix 8914.8458348091
+test model 8 for 1_8
+cost matrix 10332.357998945266
+test model 9 for 1_8
+cost matrix 9770.927413012629
+data1_8 belongs to type 1.
+test data 1_9
+test model 1 for 1_9
+cost matrix 6080.360433747255
+test model 10 for 1_9
+cost matrix 9412.282093438898
+test model 2 for 1_9
+cost matrix 10419.805219856857
+test model 3 for 1_9
+cost matrix 8265.705515402624
+test model 4 for 1_9
+cost matrix 8580.80781960877
+test model 5 for 1_9
+cost matrix 10792.140386514648
+test model 6 for 1_9
+cost matrix 10391.830028971535
+test model 7 for 1_9
+cost matrix 8788.931796053203
+test model 8 for 1_9
+cost matrix 10462.347332152794
+test model 9 for 1_9
+cost matrix 9384.779321230175
+data1_9 belongs to type 1.
+test data 2_1
+test model 1 for 2_1
+cost matrix 10426.026801378213
+test model 10 for 2_1
+cost matrix 11377.01545760338
+test model 2 for 2_1
+cost matrix 9487.691695783305
+test model 3 for 2_1
+cost matrix 11096.331745618556
+test model 4 for 2_1
+cost matrix 10510.305630022573
+test model 5 for 2_1
+cost matrix 13245.30024297877
+test model 6 for 2_1
+cost matrix 11163.270074223854
+test model 7 for 2_1
+cost matrix 11637.378276926172
+test model 8 for 2_1
+cost matrix 12200.983714922266
+test model 9 for 2_1
+cost matrix 11470.532497941722
+data2_1 belongs to type 2.
+test data 2_10
+test model 1 for 2_10
+cost matrix 9176.37856503299
+test model 10 for 2_10
+cost matrix 10065.914999844243
+test model 2 for 2_10
+cost matrix 7492.424620628861
+test model 3 for 2_10
+cost matrix 8218.834575908151
+test model 4 for 2_10
+cost matrix 8699.690261321208
+test model 5 for 2_10
+cost matrix 11232.405043082474
+test model 6 for 2_10
+cost matrix 9275.82556007263
+test model 7 for 2_10
+cost matrix 9709.953686130832
+test model 8 for 2_10
+cost matrix 10742.81758622518
+test model 9 for 2_10
+cost matrix 9390.811964132386
+data2_10 belongs to type 2.
+test data 2_2
+test model 1 for 2_2
+cost matrix 8634.785113071515
+test model 10 for 2_2
+cost matrix 9400.590400676923
+test model 2 for 2_2
+cost matrix 6813.155928289114
+test model 3 for 2_2
+cost matrix 7537.675303481492
+test model 4 for 2_2
+cost matrix 8020.874600577413
+test model 5 for 2_2
+cost matrix 10645.873125463622
+test model 6 for 2_2
+cost matrix 8871.89990701664
+test model 7 for 2_2
+cost matrix 9282.342345986362
+test model 8 for 2_2
+cost matrix 10010.871637895318
+test model 9 for 2_2
+cost matrix 9239.036460070754
+data2_2 belongs to type 2.
+test data 2_3
+test model 1 for 2_3
+cost matrix 8923.15961822573
+test model 10 for 2_3
+cost matrix 9654.954919760787
+test model 2 for 2_3
+cost matrix 7480.948053942618
+test model 3 for 2_3
+cost matrix 8019.9547376063665
+test model 4 for 2_3
+cost matrix 8710.491319212264
+test model 5 for 2_3
+cost matrix 11397.540328045918
+test model 6 for 2_3
+cost matrix 9608.792495216372
+test model 7 for 2_3
+cost matrix 9738.071840355828
+test model 8 for 2_3
+cost matrix 10527.577611553843
+test model 9 for 2_3
+cost matrix 10174.024251734903
+data2_3 belongs to type 2.
+test data 2_4
+test model 1 for 2_4
+cost matrix 8838.553185999233
+test model 10 for 2_4
+cost matrix 9885.538287453717
+test model 2 for 2_4
+cost matrix 6877.623671098265
+test model 3 for 2_4
+cost matrix 7711.290067361564
+test model 4 for 2_4
+cost matrix 8171.864140128757
+test model 5 for 2_4
+cost matrix 10593.214526715625
+test model 6 for 2_4
+---------------------
+cost matrix 6765.582201348344
+test model 7 for 2_4
+cost matrix 9308.857898119883
+test model 8 for 2_4
+cost matrix 10399.356555470482
+test model 9 for 2_4
+cost matrix 9596.395034118788
+data2_4 belongs to type 6.
+test data 2_5
+test model 1 for 2_5
+cost matrix 8529.713249846314
+test model 10 for 2_5
+cost matrix 9218.183976617396
+test model 2 for 2_5
+cost matrix 7140.270037178359
+test model 3 for 2_5
+cost matrix 6852.101176811461
+test model 4 for 2_5
+cost matrix 7535.497908914911
+test model 5 for 2_5
+cost matrix 10570.354290980731
+test model 6 for 2_5
+cost matrix 8886.942362098713
+test model 7 for 2_5
+cost matrix 8688.521244388676
+test model 8 for 2_5
+cost matrix 9907.497379499826
+test model 9 for 2_5
+cost matrix 9340.915509396742
+data2_5 belongs to type 3.
+test data 2_6
+test model 1 for 2_6
+cost matrix 8649.115320448574
+test model 10 for 2_6
+cost matrix 9455.851767517235
+test model 2 for 2_6
+cost matrix 7193.55815805513
+test model 3 for 2_6
+cost matrix 7925.466332533877
+test model 4 for 2_6
+cost matrix 8225.55902682981
+test model 5 for 2_6
+cost matrix 10938.17213958785
+test model 6 for 2_6
+cost matrix 9019.694122319674
+test model 7 for 2_6
+cost matrix 9800.013257218783
+test model 8 for 2_6
+cost matrix 10644.354678616453
+test model 9 for 2_6
+cost matrix 9390.914346291629
+data2_6 belongs to type 2.
+test data 2_7
+test model 1 for 2_7
+cost matrix 9290.6354361227
+test model 10 for 2_7
+cost matrix 10273.644004297006
+test model 2 for 2_7
+cost matrix 7711.515555035031
+test model 3 for 2_7
+cost matrix 9433.143043531862
+test model 4 for 2_7
+cost matrix 9172.327156222971
+test model 5 for 2_7
+cost matrix 12004.107002776966
+test model 6 for 2_7
+cost matrix 9717.149058806379
+test model 7 for 2_7
+cost matrix 10554.583644473463
+test model 8 for 2_7
+cost matrix 11317.967992556436
+test model 9 for 2_7
+cost matrix 10236.843477021133
+data2_7 belongs to type 2.
+test data 2_8
+test model 1 for 2_8
+cost matrix 8986.930067605697
+test model 10 for 2_8
+cost matrix 9775.374913369677
+test model 2 for 2_8
+cost matrix 7191.653133010225
+test model 3 for 2_8
+cost matrix 8337.323188395078
+test model 4 for 2_8
+cost matrix 8844.94249502786
+test model 5 for 2_8
+cost matrix 11287.806136433948
+test model 6 for 2_8
+cost matrix 9355.17080117473
+test model 7 for 2_8
+cost matrix 9755.747107946901
+test model 8 for 2_8
+cost matrix 10783.115220210124
+test model 9 for 2_8
+cost matrix 9718.015539519498
+data2_8 belongs to type 2.
+test data 2_9
+test model 1 for 2_9
+cost matrix 9456.492022821472
+test model 10 for 2_9
+cost matrix 10369.84548592402
+test model 2 for 2_9
+cost matrix 7797.592685761591
+test model 3 for 2_9
+cost matrix 8512.461438951264
+test model 4 for 2_9
+cost matrix 8937.168138648358
+test model 5 for 2_9
+cost matrix 11510.790893924432
+test model 6 for 2_9
+cost matrix 9555.65857606598
+test model 7 for 2_9
+cost matrix 10057.337378401968
+test model 8 for 2_9
+cost matrix 11066.31096819257
+test model 9 for 2_9
+cost matrix 9629.115400825762
+data2_9 belongs to type 2.
+test data 3_1
+test model 1 for 3_1
+cost matrix 8565.05712378866
+test model 10 for 3_1
+cost matrix 7991.649958030693
+test model 2 for 3_1
+cost matrix 9585.794520366031
+test model 3 for 3_1
+cost matrix 6376.412879653184
+test model 4 for 3_1
+cost matrix 7474.568985535961
+test model 5 for 3_1
+cost matrix 9967.451520496263
+test model 6 for 3_1
+cost matrix 9280.955631509205
+test model 7 for 3_1
+cost matrix 8642.461622838253
+test model 8 for 3_1
+cost matrix 9713.421544833893
+test model 9 for 3_1
+cost matrix 8119.791489142549
+data3_1 belongs to type 3.
+test data 3_10
+test model 1 for 3_10
+cost matrix 8883.151794295076
+test model 10 for 3_10
+cost matrix 8523.838973261563
+test model 2 for 3_10
+cost matrix 10022.767394492173
+test model 3 for 3_10
+cost matrix 7108.102595424869
+test model 4 for 3_10
+cost matrix 7803.525582173648
+test model 5 for 3_10
+cost matrix 10795.744577624551
+test model 6 for 3_10
+cost matrix 10187.465790631506
+test model 7 for 3_10
+cost matrix 9306.418094575034
+test model 8 for 3_10
+cost matrix 10094.976060101582
+test model 9 for 3_10
+cost matrix 8482.079750435747
+data3_10 belongs to type 3.
+test data 3_2
+test model 1 for 3_2
+cost matrix 9140.747395826531
+test model 10 for 3_2
+cost matrix 8533.1740902431
+test model 2 for 3_2
+cost matrix 10189.222079363624
+test model 3 for 3_2
+cost matrix 6498.125445444737
+test model 4 for 3_2
+cost matrix 7612.639773378046
+test model 5 for 3_2
+cost matrix 10065.569851965354
+test model 6 for 3_2
+cost matrix 9778.720624613357
+test model 7 for 3_2
+cost matrix 8912.75131581597
+test model 8 for 3_2
+cost matrix 10031.873977251904
+test model 9 for 3_2
+cost matrix 8329.403383269157
+data3_2 belongs to type 3.
+test data 3_3
+test model 1 for 3_3
+cost matrix 8697.364820811968
+test model 10 for 3_3
+cost matrix 8442.51560564301
+test model 2 for 3_3
+cost matrix 9666.364770532597
+test model 3 for 3_3
+cost matrix 5828.338905525935
+test model 4 for 3_3
+cost matrix 7195.671132025718
+test model 5 for 3_3
+cost matrix 9640.77984069977
+test model 6 for 3_3
+cost matrix 9304.464315075335
+test model 7 for 3_3
+cost matrix 8397.385089882271
+test model 8 for 3_3
+cost matrix 9620.827933592602
+test model 9 for 3_3
+cost matrix 8388.902187772512
+data3_3 belongs to type 3.
+test data 3_4
+test model 1 for 3_4
+cost matrix 8133.6436662429405
+test model 10 for 3_4
+cost matrix 7782.075279668626
+test model 2 for 3_4
+cost matrix 9316.489375850475
+test model 3 for 3_4
+cost matrix 5432.877052321878
+test model 4 for 3_4
+cost matrix 6965.362927175201
+test model 5 for 3_4
+cost matrix 9544.860992360287
+test model 6 for 3_4
+cost matrix 8973.186154367926
+test model 7 for 3_4
+cost matrix 8050.717412217639
+test model 8 for 3_4
+cost matrix 9372.990973693706
+test model 9 for 3_4
+cost matrix 7623.986540028455
+data3_4 belongs to type 3.
+test data 3_5
+test model 1 for 3_5
+cost matrix 7995.635007503134
+test model 10 for 3_5
+cost matrix 7472.218187310032
+test model 2 for 3_5
+cost matrix 9360.988529782995
+test model 3 for 3_5
+cost matrix 5942.593390870248
+test model 4 for 3_5
+cost matrix 6824.305626418293
+test model 5 for 3_5
+cost matrix 9785.248037233056
+test model 6 for 3_5
+cost matrix 9095.373504865545
+test model 7 for 3_5
+cost matrix 7976.293111484729
+test model 8 for 3_5
+cost matrix 9394.111264121548
+test model 9 for 3_5
+cost matrix 7328.303056196422
+data3_5 belongs to type 3.
+test data 3_6
+test model 1 for 3_6
+cost matrix 8420.18194137023
+test model 10 for 3_6
+cost matrix 8082.362711464397
+test model 2 for 3_6
+cost matrix 9799.844590182542
+test model 3 for 3_6
+cost matrix 6463.520830543798
+test model 4 for 3_6
+cost matrix 7357.825309992165
+test model 5 for 3_6
+cost matrix 10361.306352275096
+test model 6 for 3_6
+cost matrix 9622.21330543798
+test model 7 for 3_6
+cost matrix 8730.196371618069
+test model 8 for 3_6
+cost matrix 10060.808388176485
+test model 9 for 3_6
+cost matrix 8074.828586101028
+data3_6 belongs to type 3.
+test data 3_7
+test model 1 for 3_7
+cost matrix 8404.842455759337
+test model 10 for 3_7
+cost matrix 7991.347022911876
+test model 2 for 3_7
+cost matrix 9611.031606776967
+test model 3 for 3_7
+cost matrix 6442.492396477322
+test model 4 for 3_7
+cost matrix 7362.389967578481
+test model 5 for 3_7
+cost matrix 10386.301114953565
+test model 6 for 3_7
+cost matrix 9422.61251061746
+test model 7 for 3_7
+cost matrix 8541.435044983988
+test model 8 for 3_7
+cost matrix 9830.76851888153
+test model 9 for 3_7
+cost matrix 7883.340672139037
+data3_7 belongs to type 3.
+test data 3_8
+test model 1 for 3_8
+cost matrix 8927.833905701431
+test model 10 for 3_8
+cost matrix 8488.91625892096
+test model 2 for 3_8
+cost matrix 9969.070770568858
+test model 3 for 3_8
+cost matrix 7515.669445659056
+test model 4 for 3_8
+cost matrix 7891.011547385842
+test model 5 for 3_8
+cost matrix 10869.274677006077
+test model 6 for 3_8
+cost matrix 10051.916889957947
+test model 7 for 3_8
+cost matrix 9341.224681119047
+test model 8 for 3_8
+cost matrix 10117.659964616712
+test model 9 for 3_8
+cost matrix 8605.254157865626
+data3_8 belongs to type 3.
+test data 3_9
+test model 1 for 3_9
+cost matrix 8236.112066029244
+test model 10 for 3_9
+cost matrix 7858.056371570962
+test model 2 for 3_9
+cost matrix 9702.421818804285
+test model 3 for 3_9
+cost matrix 6462.127948265155
+test model 4 for 3_9
+cost matrix 7289.643409125781
+test model 5 for 3_9
+cost matrix 10207.12844443704
+test model 6 for 3_9
+cost matrix 9506.49346567557
+test model 7 for 3_9
+cost matrix 8315.857790883332
+test model 8 for 3_9
+cost matrix 9669.046202601921
+test model 9 for 3_9
+cost matrix 7921.218262522281
+data3_9 belongs to type 3.
+test data 4_1
+test model 1 for 4_1
+cost matrix 8803.614735606534
+test model 10 for 4_1
+cost matrix 8078.9718059799725
+test model 2 for 4_1
+cost matrix 9607.903435322845
+test model 3 for 4_1
+cost matrix 6405.738354729008
+test model 4 for 4_1
+cost matrix 4912.988460645356
+test model 5 for 4_1
+cost matrix 9535.7028352364
+test model 6 for 4_1
+cost matrix 9406.385631293746
+test model 7 for 4_1
+cost matrix 8447.927929965119
+test model 8 for 4_1
+cost matrix 9444.213703729149
+test model 9 for 4_1
+cost matrix 8963.038340750687
+data4_1 belongs to type 4.
+test data 4_10
+test model 1 for 4_10
+cost matrix 10526.6873569432
+test model 10 for 4_10
+cost matrix 10226.913361773868
+test model 2 for 4_10
+cost matrix 11756.23580504184
+test model 3 for 4_10
+cost matrix 8091.2442735457125
+test model 4 for 4_10
+cost matrix 7408.668161991011
+test model 5 for 4_10
+cost matrix 10904.396452892674
+test model 6 for 4_10
+cost matrix 11294.27750332367
+test model 7 for 4_10
+cost matrix 10744.574340880143
+test model 8 for 4_10
+cost matrix 11755.973588847539
+test model 9 for 4_10
+cost matrix 10587.992424576321
+data4_10 belongs to type 4.
+test data 4_2
+test model 1 for 4_2
+cost matrix 11306.54751735254
+test model 10 for 4_2
+cost matrix 10231.581741737487
+test model 2 for 4_2
+cost matrix 12352.85970762988
+test model 3 for 4_2
+cost matrix 8937.725665629368
+test model 4 for 4_2
+cost matrix 7555.076895948903
+test model 5 for 4_2
+cost matrix 10802.1225875428
+test model 6 for 4_2
+cost matrix 11050.94776103183
+test model 7 for 4_2
+cost matrix 10885.885709905617
+test model 8 for 4_2
+cost matrix 11476.174742122734
+test model 9 for 4_2
+cost matrix 10542.374239610466
+data4_2 belongs to type 4.
+test data 4_3
+test model 1 for 4_3
+cost matrix 8773.692888482443
+test model 10 for 4_3
+cost matrix 8064.08615363854
+test model 2 for 4_3
+cost matrix 10042.024541753804
+test model 3 for 4_3
+cost matrix 7251.909351630963
+test model 4 for 4_3
+cost matrix 5160.929995472712
+test model 5 for 4_3
+cost matrix 9681.874562082501
+test model 6 for 4_3
+cost matrix 9666.576940353169
+test model 7 for 4_3
+cost matrix 8612.344071937923
+test model 8 for 4_3
+cost matrix 9923.645602263166
+test model 9 for 4_3
+cost matrix 8746.001127831472
+data4_3 belongs to type 4.
+test data 4_4
+test model 1 for 4_4
+cost matrix 8944.481343038024
+test model 10 for 4_4
+cost matrix 7916.51793043833
+test model 2 for 4_4
+cost matrix 10377.425181768847
+test model 3 for 4_4
+cost matrix 7303.329396960865
+test model 4 for 4_4
+cost matrix 5414.039700663525
+test model 5 for 4_4
+cost matrix 9843.707545888417
+test model 6 for 4_4
+cost matrix 9855.124073183793
+test model 7 for 4_4
+cost matrix 8644.870840136908
+test model 8 for 4_4
+cost matrix 10196.076447363548
+test model 9 for 4_4
+cost matrix 8483.514468363575
+data4_4 belongs to type 4.
+test data 4_5
+test model 1 for 4_5
+cost matrix 8797.236483860854
+test model 10 for 4_5
+cost matrix 8025.034548392445
+test model 2 for 4_5
+cost matrix 10186.578067885266
+test model 3 for 4_5
+cost matrix 7557.872566852662
+test model 4 for 4_5
+cost matrix 5319.227453438155
+test model 5 for 4_5
+cost matrix 9612.172379255793
+test model 6 for 4_5
+cost matrix 9729.248677054535
+test model 7 for 4_5
+cost matrix 8699.462995135847
+test model 8 for 4_5
+cost matrix 10091.749732753742
+test model 9 for 4_5
+cost matrix 8380.712728329547
+data4_5 belongs to type 4.
+test data 4_6
+test model 1 for 4_6
+cost matrix 9152.880851892542
+test model 10 for 4_6
+cost matrix 8674.367131289335
+test model 2 for 4_6
+cost matrix 10371.386056613888
+test model 3 for 4_6
+cost matrix 7669.911818046843
+test model 4 for 4_6
+cost matrix 5260.997672933656
+test model 5 for 4_6
+cost matrix 10082.624326898156
+test model 6 for 4_6
+cost matrix 10010.914322455603
+test model 7 for 4_6
+cost matrix 8992.269385713744
+test model 8 for 4_6
+cost matrix 10579.718843191735
+test model 9 for 4_6
+cost matrix 8856.541885271286
+data4_6 belongs to type 4.
+test data 4_7
+test model 1 for 4_7
+cost matrix 8579.002324583998
+test model 10 for 4_7
+cost matrix 7866.020519822609
+test model 2 for 4_7
+cost matrix 9941.765408838392
+test model 3 for 4_7
+cost matrix 6915.572083580847
+test model 4 for 4_7
+cost matrix 5381.475322669567
+test model 5 for 4_7
+cost matrix 9690.582238711133
+test model 6 for 4_7
+cost matrix 9620.655237961117
+test model 7 for 4_7
+cost matrix 8655.902985119848
+test model 8 for 4_7
+cost matrix 10017.097331781284
+test model 9 for 4_7
+cost matrix 8212.502326031487
+data4_7 belongs to type 4.
+test data 4_8
+test model 1 for 4_8
+cost matrix 9340.82008841563
+test model 10 for 4_8
+cost matrix 8577.383522708338
+test model 2 for 4_8
+cost matrix 10643.652248719365
+test model 3 for 4_8
+cost matrix 7744.300626379157
+test model 4 for 4_8
+cost matrix 5684.396184852304
+test model 5 for 4_8
+cost matrix 10500.333828474433
+test model 6 for 4_8
+cost matrix 10315.850524436006
+test model 7 for 4_8
+cost matrix 9416.050622669447
+test model 8 for 4_8
+cost matrix 10453.508809973358
+test model 9 for 4_8
+cost matrix 9087.498899059352
+data4_8 belongs to type 4.
+test data 4_9
+test model 1 for 4_9
+cost matrix 9305.419866344278
+test model 10 for 4_9
+cost matrix 8271.674808810087
+test model 2 for 4_9
+cost matrix 10302.041431459978
+test model 3 for 4_9
+cost matrix 7506.173888160843
+test model 4 for 4_9
+cost matrix 5765.768384897565
+test model 5 for 4_9
+cost matrix 10028.259185703
+test model 6 for 4_9
+cost matrix 9976.67919724205
+test model 7 for 4_9
+cost matrix 8886.76359599617
+test model 8 for 4_9
+cost matrix 10480.066981682588
+test model 9 for 4_9
+cost matrix 8651.081308632953
+data4_9 belongs to type 4.
+test data 5_1
+test model 1 for 5_1
+cost matrix 9577.860330913189
+test model 10 for 5_1
+cost matrix 9645.546123957953
+test model 2 for 5_1
+cost matrix 10403.67515021808
+test model 3 for 5_1
+cost matrix 8205.924948357866
+test model 4 for 5_1
+cost matrix 8154.223152540934
+test model 5 for 5_1
+cost matrix 8207.871911421002
+test model 6 for 5_1
+---------------------
+cost matrix 6738.594526351765
+test model 7 for 5_1
+cost matrix 9416.142411505421
+test model 8 for 5_1
+cost matrix 10480.909364713078
+test model 9 for 5_1
+cost matrix 9754.963868832601
+data5_1 belongs to type 6.
+test data 5_10
+test model 1 for 5_10
+cost matrix 10334.826503158425
+test model 10 for 5_10
+cost matrix 10241.894434443642
+test model 2 for 5_10
+cost matrix 11301.863004630319
+test model 3 for 5_10
+cost matrix 9137.707815966853
+test model 4 for 5_10
+cost matrix 9151.335367045012
+test model 5 for 5_10
+cost matrix 8488.170963889796
+test model 6 for 5_10
+cost matrix 10508.200074929538
+test model 7 for 5_10
+cost matrix 10085.066459816284
+test model 8 for 5_10
+cost matrix 11378.348174215274
+test model 9 for 5_10
+cost matrix 10483.892668012579
+data5_10 belongs to type 5.
+test data 5_2
+test model 1 for 5_2
+cost matrix 9245.279061812606
+test model 10 for 5_2
+cost matrix 9376.509706749868
+test model 2 for 5_2
+cost matrix 10353.75387311618
+test model 3 for 5_2
+cost matrix 8052.281120148315
+test model 4 for 5_2
+cost matrix 7967.013786005865
+test model 5 for 5_2
+cost matrix 7480.865676733597
+test model 6 for 5_2
+cost matrix 9994.922095086858
+test model 7 for 5_2
+cost matrix 9239.411945908849
+test model 8 for 5_2
+cost matrix 10741.654887835386
+test model 9 for 5_2
+cost matrix 9273.532414591587
+data5_2 belongs to type 5.
+test data 5_3
+test model 1 for 5_3
+cost matrix 9816.916307222775
+test model 10 for 5_3
+cost matrix 9977.892657649165
+test model 2 for 5_3
+cost matrix 10982.305645651146
+test model 3 for 5_3
+cost matrix 8592.303898183256
+test model 4 for 5_3
+cost matrix 8539.004422196076
+test model 5 for 5_3
+cost matrix 8713.243057617805
+test model 6 for 5_3
+cost matrix 10514.692309002261
+test model 7 for 5_3
+cost matrix 9458.126153931027
+test model 8 for 5_3
+cost matrix 10840.888957124265
+test model 9 for 5_3
+cost matrix 9884.346137775057
+data5_3 belongs to type 4.
+test data 5_4
+test model 1 for 5_4
+cost matrix 10230.048720382321
+test model 10 for 5_4
+cost matrix 9768.38491588155
+test model 2 for 5_4
+cost matrix 11471.238988024123
+test model 3 for 5_4
+cost matrix 8688.936909649803
+test model 4 for 5_4
+cost matrix 8579.597572251934
+test model 5 for 5_4
+cost matrix 8762.541173673764
+test model 6 for 5_4
+cost matrix 10836.175345378722
+test model 7 for 5_4
+cost matrix 9672.973348844402
+test model 8 for 5_4
+cost matrix 11208.641778211497
+test model 9 for 5_4
+cost matrix 9857.952237069601
+data5_4 belongs to type 4.
+test data 5_5
+test model 1 for 5_5
+cost matrix 9754.338832025338
+test model 10 for 5_5
+cost matrix 9575.36433487989
+test model 2 for 5_5
+cost matrix 10935.987856709826
+test model 3 for 5_5
+cost matrix 7914.667252657451
+test model 4 for 5_5
+cost matrix 8301.563409227652
+test model 5 for 5_5
+cost matrix 8061.768601214788
+test model 6 for 5_5
+cost matrix 10412.10033012346
+test model 7 for 5_5
+cost matrix 9098.334516117397
+test model 8 for 5_5
+cost matrix 10603.776558108177
+test model 9 for 5_5
+cost matrix 9616.210247344881
+data5_5 belongs to type 3.
+test data 5_6
+test model 1 for 5_6
+cost matrix 9538.132038522586
+test model 10 for 5_6
+cost matrix 9827.778701876668
+test model 2 for 5_6
+cost matrix 10557.277090005584
+test model 3 for 5_6
+cost matrix 7985.991482603449
+test model 4 for 5_6
+cost matrix 8192.219613175685
+test model 5 for 5_6
+cost matrix 8236.595903815842
+test model 6 for 5_6
+cost matrix 10408.32811491854
+test model 7 for 5_6
+cost matrix 9237.458045857695
+test model 8 for 5_6
+cost matrix 10323.654091910426
+test model 9 for 5_6
+cost matrix 9925.904334125582
+data5_6 belongs to type 3.
+test data 5_7
+test model 1 for 5_7
+cost matrix 10030.65830199163
+test model 10 for 5_7
+cost matrix 9959.648943926673
+test model 2 for 5_7
+cost matrix 11162.448993273587
+test model 3 for 5_7
+cost matrix 8527.970382372254
+test model 4 for 5_7
+cost matrix 8783.180873640526
+test model 5 for 5_7
+cost matrix 8367.010029429615
+test model 6 for 5_7
+cost matrix 10437.372258912355
+test model 7 for 5_7
+cost matrix 9511.289036469387
+test model 8 for 5_7
+cost matrix 10897.15031968511
+test model 9 for 5_7
+cost matrix 10238.595720706428
+data5_7 belongs to type 5.
+test data 5_8
+test model 1 for 5_8
+cost matrix 10364.237034105465
+test model 10 for 5_8
+cost matrix 10025.1131096822
+test model 2 for 5_8
+cost matrix 11050.644525036576
+test model 3 for 5_8
+cost matrix 8449.363701797998
+test model 4 for 5_8
+cost matrix 8768.286379518235
+test model 5 for 5_8
+cost matrix 8363.934713123645
+test model 6 for 5_8
+cost matrix 10358.474033079814
+test model 7 for 5_8
+cost matrix 9657.029484695458
+test model 8 for 5_8
+cost matrix 11124.841694042863
+test model 9 for 5_8
+cost matrix 10388.13173237701
+data5_8 belongs to type 5.
+test data 5_9
+test model 1 for 5_9
+cost matrix 10078.706282225736
+test model 10 for 5_9
+cost matrix 9977.66883076731
+test model 2 for 5_9
+cost matrix 11145.73560180274
+test model 3 for 5_9
+cost matrix 8682.967768818338
+test model 4 for 5_9
+cost matrix 8745.45357963855
+test model 5 for 5_9
+cost matrix 8161.602548753885
+test model 6 for 5_9
+cost matrix 10602.447606760375
+test model 7 for 5_9
+cost matrix 9585.176772501452
+test model 8 for 5_9
+cost matrix 11111.470231160976
+test model 9 for 5_9
+cost matrix 10290.045781286939
+data5_9 belongs to type 5.
+test data 6_1
+test model 1 for 6_1
+cost matrix 10166.032581122696
+test model 10 for 6_1
+cost matrix 10226.022012584566
+test model 2 for 6_1
+cost matrix 10505.288567993683
+test model 3 for 6_1
+cost matrix 8785.96028969302
+test model 4 for 6_1
+cost matrix 9182.13268451268
+test model 5 for 6_1
+cost matrix 11622.38938738942
+test model 6 for 6_1
+cost matrix 8600.849930344039
+test model 7 for 6_1
+cost matrix 9781.855438267216
+test model 8 for 6_1
+cost matrix 10981.461249727754
+test model 9 for 6_1
+cost matrix 10375.61374936881
+data6_1 belongs to type 6.
+test data 6_10
+test model 1 for 6_10
+cost matrix 8814.983588598645
+test model 10 for 6_10
+cost matrix 8692.544483864915
+test model 2 for 6_10
+cost matrix 8329.586500129719
+test model 3 for 6_10
+cost matrix 6310.377065791406
+test model 4 for 6_10
+cost matrix 7202.638191993612
+test model 5 for 6_10
+cost matrix 10217.224158319079
+test model 6 for 6_10
+cost matrix 6760.654163962096
+test model 7 for 6_10
+cost matrix 7671.303240578771
+test model 8 for 6_10
+cost matrix 9169.040633737719
+test model 9 for 6_10
+cost matrix 9149.876677831404
+data6_10 belongs to type 3.
+test data 6_2
+test model 1 for 6_2
+cost matrix 10274.60922132945
+test model 10 for 6_2
+cost matrix 10325.244505248585
+test model 2 for 6_2
+cost matrix 9991.048506914938
+test model 3 for 6_2
+cost matrix 9249.564797486908
+test model 4 for 6_2
+cost matrix 9285.398496985734
+test model 5 for 6_2
+cost matrix 11492.919440787055
+test model 6 for 6_2
+cost matrix 8099.694706613892
+test model 7 for 6_2
+cost matrix 10235.677732944881
+test model 8 for 6_2
+cost matrix 10549.141115587103
+test model 9 for 6_2
+cost matrix 10505.327896490011
+data6_2 belongs to type 6.
+test data 6_3
+test model 1 for 6_3
+cost matrix 9195.997256847219
+test model 10 for 6_3
+cost matrix 9049.031608741969
+test model 2 for 6_3
+cost matrix 9136.974436606632
+test model 3 for 6_3
+cost matrix 7882.043816079426
+test model 4 for 6_3
+cost matrix 8399.966031037742
+test model 5 for 6_3
+cost matrix 10460.333633725391
+test model 6 for 6_3
+---------------------
+cost matrix 7315.379176757057
+test model 7 for 6_3
+cost matrix 9064.424629729196
+test model 8 for 6_3
+cost matrix 9947.923343501881
+test model 9 for 6_3
+cost matrix 9242.170975191915
+data6_3 belongs to type 6.
+test data 6_4
+test model 1 for 6_4
+cost matrix 9240.42440898203
+test model 10 for 6_4
+cost matrix 9061.825335207654
+test model 2 for 6_4
+cost matrix 8756.885959849888
+test model 3 for 6_4
+cost matrix 8023.478804560524
+test model 4 for 6_4
+cost matrix 8313.704208956995
+test model 5 for 6_4
+cost matrix 10464.613700809585
+test model 6 for 6_4
+cost matrix 6667.656994917083
+test model 7 for 6_4
+cost matrix 9153.007684342025
+test model 8 for 6_4
+cost matrix 9540.821943072871
+test model 9 for 6_4
+cost matrix 9354.305862528297
+data6_4 belongs to type 6.
+test data 6_5
+test model 1 for 6_5
+cost matrix 10046.161671828704
+test model 10 for 6_5
+cost matrix 10018.81998576368
+test model 2 for 6_5
+cost matrix 9593.81741047048
+test model 3 for 6_5
+cost matrix 8925.14764536657
+test model 4 for 6_5
+cost matrix 9296.237428947981
+test model 5 for 6_5
+cost matrix 11456.926726795067
+test model 6 for 6_5
+cost matrix 7896.608735447215
+test model 7 for 6_5
+cost matrix 9939.723333355707
+test model 8 for 6_5
+cost matrix 10612.166810047871
+test model 9 for 6_5
+cost matrix 10396.054272355863
+data6_5 belongs to type 6.
+test data 6_6
+test model 1 for 6_6
+cost matrix 9282.067972555427
+test model 10 for 6_6
+cost matrix 8968.911341369636
+test model 2 for 6_6
+cost matrix 9310.564357396574
+test model 3 for 6_6
+cost matrix 8474.232636564742
+test model 4 for 6_6
+cost matrix 8690.09891453018
+test model 5 for 6_6
+cost matrix 10451.081549100425
+test model 6 for 6_6
+cost matrix 6900.259260300959
+test model 7 for 6_6
+cost matrix 9240.954530102113
+test model 8 for 6_6
+cost matrix 10136.4217290976
+test model 9 for 6_6
+cost matrix 9405.476951413624
+data6_6 belongs to type 6.
+test data 6_7
+test model 1 for 6_7
+cost matrix 9752.15865707705
+test model 10 for 6_7
+cost matrix 9546.41840904296
+test model 2 for 6_7
+cost matrix 9332.796215515726
+test model 3 for 6_7
+cost matrix 8809.660140464863
+test model 4 for 6_7
+cost matrix 8777.034260292801
+test model 5 for 6_7
+cost matrix 10787.771277205842
+test model 6 for 6_7
+cost matrix 7251.473721928371
+test model 7 for 6_7
+cost matrix 9692.267030477751
+test model 8 for 6_7
+cost matrix 10254.632346475933
+test model 9 for 6_7
+cost matrix 9348.224009706248
+data6_7 belongs to type 6.
+test data 6_8
+test model 1 for 6_8
+cost matrix 10157.053668516048
+test model 10 for 6_8
+cost matrix 9945.231920101267
+test model 2 for 6_8
+cost matrix 9720.943211627018
+test model 3 for 6_8
+cost matrix 8905.426373532675
+test model 4 for 6_8
+cost matrix 9234.63130211357
+test model 5 for 6_8
+cost matrix 11394.065064693057
+test model 6 for 6_8
+cost matrix 7538.100474550009
+test model 7 for 6_8
+cost matrix 10010.437272313122
+test model 8 for 6_8
+cost matrix 10542.92751669476
+test model 9 for 6_8
+cost matrix 9860.324279797254
+data6_8 belongs to type 6.
+test data 6_9
+test model 1 for 6_9
+cost matrix 10078.951899527041
+test model 10 for 6_9
+cost matrix 9721.874850040324
+test model 2 for 6_9
+cost matrix 10071.769967641669
+test model 3 for 6_9
+cost matrix 9501.670955593261
+test model 4 for 6_9
+cost matrix 9547.749820054962
+test model 5 for 6_9
+cost matrix 11422.638956252193
+test model 6 for 6_9
+cost matrix 7682.623794023076
+test model 7 for 6_9
+cost matrix 10103.12124826287
+test model 8 for 6_9
+cost matrix 11097.635157113766
+test model 9 for 6_9
+cost matrix 9989.152344874592
+data6_9 belongs to type 6.
+test data 7_1
+test model 1 for 7_1
+cost matrix 7690.683427151549
+test model 10 for 7_1
+cost matrix 7183.200618548821
+test model 2 for 7_1
+cost matrix 9416.207291406896
+test model 3 for 7_1
+cost matrix 7003.552445934094
+test model 4 for 7_1
+cost matrix 6963.115678440352
+test model 5 for 7_1
+cost matrix 9639.242429703485
+test model 6 for 7_1
+cost matrix 9136.297528152405
+test model 7 for 7_1
+cost matrix 5200.568312128766
+test model 8 for 7_1
+cost matrix 8148.096893784327
+test model 9 for 7_1
+cost matrix 7641.312158256919
+data7_1 belongs to type 7.
+test data 7_10
+test model 1 for 7_10
+cost matrix 8543.168075951682
+test model 10 for 7_10
+cost matrix 7739.50758969702
+test model 2 for 7_10
+cost matrix 10188.544564240636
+test model 3 for 7_10
+cost matrix 7327.591738673898
+test model 4 for 7_10
+cost matrix 7861.802152225554
+test model 5 for 7_10
+cost matrix 10305.596177054507
+test model 6 for 7_10
+cost matrix 9729.34606598716
+test model 7 for 7_10
+cost matrix 5601.2139089625425
+test model 8 for 7_10
+cost matrix 8897.069128598401
+test model 9 for 7_10
+cost matrix 8653.550476011429
+data7_10 belongs to type 7.
+test data 7_2
+test model 1 for 7_2
+cost matrix 8490.529359505616
+test model 10 for 7_2
+cost matrix 7677.091559300743
+test model 2 for 7_2
+cost matrix 9588.982468989112
+test model 3 for 7_2
+cost matrix 7193.081552874843
+test model 4 for 7_2
+cost matrix 7322.496430920573
+test model 5 for 7_2
+cost matrix 10191.676820965917
+test model 6 for 7_2
+cost matrix 9453.206878912775
+test model 7 for 7_2
+cost matrix 5367.403592111963
+test model 8 for 7_2
+cost matrix 8092.658139398073
+test model 9 for 7_2
+cost matrix 8133.079352176157
+data7_2 belongs to type 7.
+test data 7_3
+test model 1 for 7_3
+cost matrix 8321.719180936854
+test model 10 for 7_3
+---------------------
+cost matrix 5025.6311802008995
+test model 2 for 7_3
+cost matrix 9750.048636242744
+test model 3 for 7_3
+cost matrix 7338.849212548269
+test model 4 for 7_3
+cost matrix 7536.204379410864
+test model 5 for 7_3
+cost matrix 10147.39067028923
+test model 6 for 7_3
+cost matrix 9680.070487364648
+test model 7 for 7_3
+cost matrix 5421.139550110075
+test model 8 for 7_3
+cost matrix 8592.971898663709
+test model 9 for 7_3
+cost matrix 7932.309147203437
+data7_3 belongs to type 10.
+test data 7_4
+test model 1 for 7_4
+cost matrix 8796.807214956969
+test model 10 for 7_4
+cost matrix 7873.939899482374
+test model 2 for 7_4
+cost matrix 10112.671060171717
+test model 3 for 7_4
+cost matrix 7787.853587348457
+test model 4 for 7_4
+cost matrix 7976.453543635116
+test model 5 for 7_4
+cost matrix 10451.193657160818
+test model 6 for 7_4
+cost matrix 9929.123630559194
+test model 7 for 7_4
+cost matrix 5935.291138390947
+test model 8 for 7_4
+cost matrix 8695.043537682552
+test model 9 for 7_4
+cost matrix 8439.1175172186
+data7_4 belongs to type 7.
+test data 7_5
+test model 1 for 7_5
+cost matrix 8351.71047955362
+test model 10 for 7_5
+cost matrix 7727.176988645406
+test model 2 for 7_5
+cost matrix 9656.620218623822
+test model 3 for 7_5
+cost matrix 7581.990765421381
+test model 4 for 7_5
+cost matrix 7603.572912800207
+test model 5 for 7_5
+cost matrix 10519.027533155122
+test model 6 for 7_5
+cost matrix 9474.576256768281
+test model 7 for 7_5
+cost matrix 5966.474010326635
+test model 8 for 7_5
+cost matrix 8464.327905808374
+test model 9 for 7_5
+cost matrix 8030.217913250588
+data7_5 belongs to type 7.
+test data 7_6
+test model 1 for 7_6
+cost matrix 8298.146081187037
+test model 10 for 7_6
+cost matrix 7799.888075454367
+test model 2 for 7_6
+cost matrix 9893.533768698113
+test model 3 for 7_6
+cost matrix 7253.574902005965
+test model 4 for 7_6
+cost matrix 7518.224044906732
+test model 5 for 7_6
+cost matrix 9977.490323967088
+test model 6 for 7_6
+cost matrix 9460.2668411883
+test model 7 for 7_6
+cost matrix 5842.948590741532
+test model 8 for 7_6
+cost matrix 8225.83946112121
+test model 9 for 7_6
+cost matrix 8186.875741092986
+data7_6 belongs to type 7.
+test data 7_7
+test model 1 for 7_7
+cost matrix 8451.558968279573
+test model 10 for 7_7
+cost matrix 7793.178947700715
+test model 2 for 7_7
+cost matrix 10295.683551377528
+test model 3 for 7_7
+cost matrix 7503.945884434519
+test model 4 for 7_7
+cost matrix 7715.183495427895
+test model 5 for 7_7
+cost matrix 10061.50488274
+test model 6 for 7_7
+cost matrix 9346.166900675742
+test model 7 for 7_7
+cost matrix 5837.688371487739
+test model 8 for 7_7
+cost matrix 8483.924943472277
+test model 9 for 7_7
+cost matrix 8028.199028008015
+data7_7 belongs to type 7.
+test data 7_8
+test model 1 for 7_8
+cost matrix 8737.958506833289
+test model 10 for 7_8
+cost matrix 8249.584806103068
+test model 2 for 7_8
+cost matrix 10405.851118867427
+test model 3 for 7_8
+cost matrix 7801.675779471254
+test model 4 for 7_8
+cost matrix 8212.284609072849
+test model 5 for 7_8
+cost matrix 10706.00503871919
+test model 6 for 7_8
+cost matrix 9956.814249267463
+test model 7 for 7_8
+cost matrix 6372.910806176197
+test model 8 for 7_8
+cost matrix 8684.704300455704
+test model 9 for 7_8
+cost matrix 8673.600066082146
+data7_8 belongs to type 7.
+test data 7_9
+test model 1 for 7_9
+cost matrix 8740.98896585155
+test model 10 for 7_9
+cost matrix 7916.832817529423
+test model 2 for 7_9
+cost matrix 10018.535362167577
+test model 3 for 7_9
+cost matrix 7742.92286338367
+test model 4 for 7_9
+cost matrix 7986.328241246609
+test model 5 for 7_9
+cost matrix 10590.971388986136
+test model 6 for 7_9
+cost matrix 9625.040815493316
+test model 7 for 7_9
+cost matrix 6540.09161760891
+test model 8 for 7_9
+cost matrix 8575.593530906335
+test model 9 for 7_9
+cost matrix 8634.851318275421
+data7_9 belongs to type 7.
+test data 8_1
+test model 1 for 8_1
+cost matrix 9231.864703862355
+test model 10 for 8_1
+cost matrix 9012.950593586063
+test model 2 for 8_1
+cost matrix 10639.179258589464
+test model 3 for 8_1
+cost matrix 8238.249833057536
+test model 4 for 8_1
+cost matrix 8542.199151740597
+test model 5 for 8_1
+cost matrix 11044.901247531767
+test model 6 for 8_1
+cost matrix 9681.405487780705
+test model 7 for 8_1
+cost matrix 8463.838491491808
+test model 8 for 8_1
+cost matrix 6398.930693445901
+test model 9 for 8_1
+cost matrix 9686.570198685919
+data8_1 belongs to type 8.
+test data 8_10
+test model 1 for 8_10
+cost matrix 8917.56728762003
+test model 10 for 8_10
+cost matrix 8515.486440214816
+test model 2 for 8_10
+cost matrix 10666.90185034789
+test model 3 for 8_10
+cost matrix 8837.009357808733
+test model 4 for 8_10
+cost matrix 9260.09787898589
+test model 5 for 8_10
+cost matrix 11493.95686332304
+test model 6 for 8_10
+cost matrix 9933.79993072146
+test model 7 for 8_10
+cost matrix 8283.24781985556
+test model 8 for 8_10
+cost matrix 7546.49987329622
+test model 9 for 8_10
+cost matrix 9708.861181205228
+data8_10 belongs to type 8.
+test data 8_2
+test model 1 for 8_2
+cost matrix 9063.69818250025
+test model 10 for 8_2
+cost matrix 8744.206982784039
+test model 2 for 8_2
+cost matrix 10339.511379872354
+test model 3 for 8_2
+cost matrix 8283.119596186692
+test model 4 for 8_2
+cost matrix 8450.043642090754
+test model 5 for 8_2
+cost matrix 11243.615647941117
+test model 6 for 8_2
+cost matrix 9557.301493989442
+test model 7 for 8_2
+cost matrix 8367.354118647292
+test model 8 for 8_2
+cost matrix 6919.739855692134
+test model 9 for 8_2
+cost matrix 9577.957470252446
+data8_2 belongs to type 8.
+test data 8_3
+test model 1 for 8_3
+cost matrix 10312.871165214645
+test model 10 for 8_3
+cost matrix 9495.588101454874
+test model 2 for 8_3
+cost matrix 11388.46748046228
+test model 3 for 8_3
+cost matrix 8496.749862789327
+test model 4 for 8_3
+cost matrix 9327.369389988224
+test model 5 for 8_3
+cost matrix 11218.875730702735
+test model 6 for 8_3
+cost matrix 10390.031226667512
+test model 7 for 8_3
+cost matrix 9465.659828565227
+test model 8 for 8_3
+cost matrix 7623.885257726953
+test model 9 for 8_3
+cost matrix 10391.198004027563
+data8_3 belongs to type 8.
+test data 8_4
+test model 1 for 8_4
+cost matrix 8720.706835936468
+test model 10 for 8_4
+cost matrix 7962.345394956017
+test model 2 for 8_4
+cost matrix 9930.816077518002
+test model 3 for 8_4
+cost matrix 7952.2561494457495
+test model 4 for 8_4
+cost matrix 7943.680929692905
+test model 5 for 8_4
+cost matrix 10510.329335004675
+test model 6 for 8_4
+cost matrix 9296.392187069481
+test model 7 for 8_4
+cost matrix 7901.979989080015
+test model 8 for 8_4
+cost matrix 6399.481706218266
+test model 9 for 8_4
+cost matrix 9184.352785615827
+data8_4 belongs to type 8.
+test data 8_5
+test model 1 for 8_5
+cost matrix 9126.223582089646
+test model 10 for 8_5
+cost matrix 8327.407591360114
+test model 2 for 8_5
+cost matrix 10177.056458731007
+test model 3 for 8_5
+cost matrix 8596.207316996033
+test model 4 for 8_5
+cost matrix 8693.970954883196
+test model 5 for 8_5
+cost matrix 11373.135124087883
+test model 6 for 8_5
+cost matrix 9610.178532412174
+test model 7 for 8_5
+cost matrix 8299.217158669362
+test model 8 for 8_5
+cost matrix 6901.3386634634235
+test model 9 for 8_5
+---------------------
+cost matrix 7108.337352660544
+data8_5 belongs to type 8.
+test data 8_6
+test model 1 for 8_6
+cost matrix 9556.755058868308
+test model 10 for 8_6
+cost matrix 8871.381007090278
+test model 2 for 8_6
+cost matrix 10501.411377110364
+test model 3 for 8_6
+cost matrix 8939.473179483652
+test model 4 for 8_6
+cost matrix 9140.454284252188
+test model 5 for 8_6
+cost matrix 11430.310534878445
+test model 6 for 8_6
+cost matrix 9931.679698099033
+test model 7 for 8_6
+cost matrix 8681.779704896751
+test model 8 for 8_6
+cost matrix 7430.151570956602
+test model 9 for 8_6
+cost matrix 9946.22122851454
+data8_6 belongs to type 8.
+test data 8_7
+test model 1 for 8_7
+cost matrix 9797.501080346527
+test model 10 for 8_7
+cost matrix 8672.476849953904
+test model 2 for 8_7
+cost matrix 10809.239879848652
+test model 3 for 8_7
+cost matrix 8768.837519673634
+test model 4 for 8_7
+cost matrix 9098.313304011626
+test model 5 for 8_7
+cost matrix 11539.872490336822
+test model 6 for 8_7
+cost matrix 9985.285038862281
+test model 7 for 8_7
+cost matrix 8590.821622865444
+test model 8 for 8_7
+cost matrix 7500.7858885391715
+test model 9 for 8_7
+cost matrix 9599.42108147773
+data8_7 belongs to type 8.
+test data 8_8
+test model 1 for 8_8
+cost matrix 10023.141735772071
+test model 10 for 8_8
+cost matrix 9282.04422039834
+test model 2 for 8_8
+cost matrix 11162.97315523904
+test model 3 for 8_8
+cost matrix 9550.953142902661
+test model 4 for 8_8
+cost matrix 9564.709095388693
+test model 5 for 8_8
+cost matrix 12125.213731383024
+test model 6 for 8_8
+cost matrix 10212.980192284957
+test model 7 for 8_8
+cost matrix 9010.33878948255
+test model 8 for 8_8
+cost matrix 7399.669545063494
+test model 9 for 8_8
+cost matrix 10401.650373245931
+data8_8 belongs to type 8.
+test data 8_9
+test model 1 for 8_9
+cost matrix 9949.795750917528
+test model 10 for 8_9
+cost matrix 9432.833309221496
+test model 2 for 8_9
+cost matrix 11158.925399237909
+test model 3 for 8_9
+cost matrix 9987.941306179207
+test model 4 for 8_9
+cost matrix 9926.443158251126
+test model 5 for 8_9
+cost matrix 12289.42865363786
+test model 6 for 8_9
+cost matrix 10396.411133346855
+test model 7 for 8_9
+cost matrix 9450.549686659004
+test model 8 for 8_9
+cost matrix 8057.826170270508
+test model 9 for 8_9
+cost matrix 10522.939801939427
+data8_9 belongs to type 8.
+test data 9_1
+test model 1 for 9_1
+cost matrix 8836.103329210082
+test model 10 for 9_1
+cost matrix 7979.981147846068
+test model 2 for 9_1
+cost matrix 9609.776472334672
+test model 3 for 9_1
+cost matrix 7268.052028366941
+test model 4 for 9_1
+cost matrix 7712.423400303914
+test model 5 for 9_1
+cost matrix 10171.572989396718
+test model 6 for 9_1
+cost matrix 9457.440551153128
+test model 7 for 9_1
+cost matrix 7992.626827852178
+test model 8 for 9_1
+cost matrix 9888.829019568795
+test model 9 for 9_1
+cost matrix 6013.954624378384
+data9_1 belongs to type 9.
+test data 9_10
+test model 1 for 9_10
+cost matrix 9084.67299216138
+test model 10 for 9_10
+cost matrix 8569.73921195196
+test model 2 for 9_10
+cost matrix 9951.584414001294
+test model 3 for 9_10
+cost matrix 7667.1895791306
+test model 4 for 9_10
+cost matrix 7899.254086077907
+test model 5 for 9_10
+cost matrix 10590.903882810511
+test model 6 for 9_10
+cost matrix 9919.562783051291
+test model 7 for 9_10
+cost matrix 8555.978313221945
+test model 8 for 9_10
+cost matrix 10366.019246376542
+test model 9 for 9_10
+cost matrix 6656.495436361989
+data9_10 belongs to type 9.
+test data 9_2
+test model 1 for 9_2
+cost matrix 9938.598802038827
+test model 10 for 9_2
+cost matrix 9451.882696078395
+test model 2 for 9_2
+cost matrix 10858.611963844249
+test model 3 for 9_2
+cost matrix 8797.22952018115
+test model 4 for 9_2
+cost matrix 8854.482694966897
+test model 5 for 9_2
+cost matrix 11706.35301660227
+test model 6 for 9_2
+cost matrix 10874.665777319282
+test model 7 for 9_2
+cost matrix 9385.277963043942
+test model 8 for 9_2
+cost matrix 11180.710596674555
+test model 9 for 9_2
+cost matrix 7579.261548821718
+data9_2 belongs to type 9.
+test data 9_3
+test model 1 for 9_3
+cost matrix 9124.299236919705
+test model 10 for 9_3
+cost matrix 8448.849890764008
+test model 2 for 9_3
+cost matrix 10349.923389147802
+test model 3 for 9_3
+cost matrix 7742.126375990269
+test model 4 for 9_3
+cost matrix 7890.681642828299
+test model 5 for 9_3
+cost matrix 10556.5704745214
+test model 6 for 9_3
+---------------------
+cost matrix 7032.344635000825
+test model 7 for 9_3
+cost matrix 8245.460243832325
+test model 8 for 9_3
+cost matrix 10345.5379490868
+test model 9 for 9_3
+cost matrix 6187.14116424248
+data9_3 belongs to type 9.
+test data 9_4
+test model 1 for 9_4
+cost matrix 9529.440917340262
+test model 10 for 9_4
+cost matrix 8391.014222033838
+test model 2 for 9_4
+cost matrix 10100.921284827915
+test model 3 for 9_4
+cost matrix 7988.806120624557
+test model 4 for 9_4
+cost matrix 8029.521194366157
+test model 5 for 9_4
+---------------------
+cost matrix 7214.177486671307
+test model 6 for 9_4
+cost matrix 10073.71596660771
+test model 7 for 9_4
+cost matrix 8627.426755296996
+test model 8 for 9_4
+cost matrix 10490.754138073542
+test model 9 for 9_4
+cost matrix 6534.994837348573
+data9_4 belongs to type 9.
+test data 9_5
+test model 1 for 9_5
+cost matrix 9381.813297180814
+test model 10 for 9_5
+cost matrix 8386.93397743001
+test model 2 for 9_5
+cost matrix 10297.476913344193
+test model 3 for 9_5
+cost matrix 7832.3973639996175
+test model 4 for 9_5
+cost matrix 8194.210045331718
+test model 5 for 9_5
+cost matrix 10729.35404543896
+test model 6 for 9_5
+cost matrix 9828.944580315285
+test model 7 for 9_5
+cost matrix 8379.812513461398
+test model 8 for 9_5
+cost matrix 10449.050243878719
+test model 9 for 9_5
+cost matrix 6290.168395691492
+data9_5 belongs to type 9.
+test data 9_6
+test model 1 for 9_6
+cost matrix 9562.12102455721
+test model 10 for 9_6
+cost matrix 8570.911882694912
+test model 2 for 9_6
+cost matrix 10188.027961253501
+test model 3 for 9_6
+cost matrix 8190.463939456417
+test model 4 for 9_6
+cost matrix 8197.41724770469
+test model 5 for 9_6
+cost matrix 10984.359582695499
+test model 6 for 9_6
+cost matrix 9896.854330891825
+test model 7 for 9_6
+cost matrix 8617.59015936121
+test model 8 for 9_6
+cost matrix 10588.450678719899
+test model 9 for 9_6
+cost matrix 6521.863478925233
+data9_6 belongs to type 9.
+test data 9_7
+test model 1 for 9_7
+cost matrix 9344.834188495535
+test model 10 for 9_7
+cost matrix 8488.326601782102
+test model 2 for 9_7
+cost matrix 10441.489269676866
+test model 3 for 9_7
+cost matrix 8483.348569275477
+test model 4 for 9_7
+cost matrix 8376.368979055573
+test model 5 for 9_7
+cost matrix 10870.249886357953
+test model 6 for 9_7
+cost matrix 10049.931416390964
+test model 7 for 9_7
+cost matrix 8535.998312933887
+test model 8 for 9_7
+cost matrix 10838.797533172563
+test model 9 for 9_7
+cost matrix 6522.276669388423
+data9_7 belongs to type 9.
+test data 9_8
+test model 1 for 9_8
+cost matrix 9605.528446466966
+test model 10 for 9_8
+cost matrix 8433.500389601522
+test model 2 for 9_8
+cost matrix 10470.083210155452
+test model 3 for 9_8
+cost matrix 8291.686595647558
+test model 4 for 9_8
+cost matrix 8266.640361942338
+test model 5 for 9_8
+cost matrix 11066.072647857522
+test model 6 for 9_8
+cost matrix 10036.471434443714
+test model 7 for 9_8
+cost matrix 8602.637585033199
+test model 8 for 9_8
+cost matrix 10704.074516774903
+test model 9 for 9_8
+cost matrix 6579.458083917754
+data9_8 belongs to type 9.
+test data 9_9
+test model 1 for 9_9
+cost matrix 9610.788984047032
+test model 10 for 9_9
+cost matrix 8573.84440005802
+test model 2 for 9_9
+cost matrix 10000.194813118977
+test model 3 for 9_9
+cost matrix 7903.098298167526
+test model 4 for 9_9
+cost matrix 8049.066970496413
+test model 5 for 9_9
+cost matrix 10826.795346177116
+test model 6 for 9_9
+cost matrix 9828.226877881889
+test model 7 for 9_9
+cost matrix 8659.76212332338
+test model 8 for 9_9
+cost matrix 10496.643705052293
+test model 9 for 9_9
+cost matrix 6613.070347997175
+data9_9 belongs to type 9.
+test over, the rate of correct is: 0.91

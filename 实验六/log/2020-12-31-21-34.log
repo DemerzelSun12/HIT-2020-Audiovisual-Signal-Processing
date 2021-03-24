@@ -1,0 +1,23 @@
+test data 10_1
+test model 1 for 10_1
+cost matrix 8794.706317552163
+test model 10 for 10_1
+cost matrix 5518.42194301012
+test model 2 for 10_1
+cost matrix 10231.735429305374
+test model 3 for 10_1
+cost matrix 8161.684118740768
+test model 4 for 10_1
+cost matrix 7857.268768944229
+test model 5 for 10_1
+cost matrix 6963.562021828248
+test model 6 for 10_1
+cost matrix 9874.467400884576
+test model 7 for 10_1
+cost matrix 8279.228549979227
+test model 8 for 10_1
+cost matrix 9478.494511783008
+test model 9 for 10_1
+cost matrix 8480.159319079341
+data10_1 belongs to type 10.
+
